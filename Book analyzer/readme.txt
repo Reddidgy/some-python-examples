@@ -13,4 +13,4 @@ Steps to use:
   - For example you can grab all text and put it to Gsheet for filtering :)
 
 
-p.s. I learned English then and the idea was to get top english words to learn :P
+p.s. I learned English then and the idea was to get top English words to learn :P
