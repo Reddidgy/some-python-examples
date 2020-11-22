@@ -1,4 +1,4 @@
-This easy program gets some txt file (book for example) and counts each word in it.
+This easy program can grab some txt file (book for example) and counts each word in it.
 After this processing program creates file out.txt with each word and number of repetitions.
 
 It's kinda top words in any book :)
