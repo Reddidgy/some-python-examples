@@ -1,4 +1,4 @@
-easy socket chat in console.
+Simple socket chat in console.
 
 Created while I learned sockets in Python.
 
