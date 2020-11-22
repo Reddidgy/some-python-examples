@@ -8,7 +8,8 @@ Steps to use:
 1. Open main.py
 2. Type filename and press enter(you can use "harryPotter1.txt" in this folder or other file)
 3. Process will take some time and will give you success message
-4. Optional ways:
+
+Optional ways:
   - You can just open out.txt but it's without any filter
   - For example you can grab all text and put it to Gsheet for filtering :)
 
