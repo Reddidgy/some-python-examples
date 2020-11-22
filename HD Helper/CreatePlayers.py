@@ -2,19 +2,19 @@ import json
 
 who_is_it_dict = {                  # словарь для создания второго файла с норм фамилией (на всякий)
     'UL84R0TMX' : 'ugarov',
-    'UDAQQGJMS' : 'kalyakin',
-    'UCCA04GPL' : 'dobroradnykh',
-    'UAN9Q00BF' : 'medvedev',
-    'UHJ777DQF' : 'redchenkov',
-    'UCH5KKE67' : 'korovin',
-    'UFC8XCJSV' : 'byazrov',
-    'UGKSUVANM' : 'odegov',
-    'UK3T1E44B' : 'karpov',
-    'UM3U0T7PH' : 'dovbash',
-    'U7568MABD' : 'alekseev',
-    'UJGT1V9EW' : 'drabkin',
-    'UCVUT24TT' : 'fedorova',
-    'UCBLN44N6' : 'kuksenko',
+    'UDAQQGJMS' : 'player1',
+    'UCCA04GPL' : 'player2',
+    'UAN9Q00BF' : 'player3',
+    'UHJ777DQF' : 'player4',
+    'UCH5KKE67' : 'player5',
+    'UFC8XCJSV' : 'player6',
+    'UGKSUVANM' : 'player7',
+    'UK3T1E44B' : 'player8',
+    'UM3U0T7PH' : 'player9',
+    'U7568MABD' : 'player10',
+    'UJGT1V9EW' : 'player11',
+    'UCVUT24TT' : 'player12',
+    'UCBLN44N6' : 'player13',
 }
 
 players_filename = 'players.json'

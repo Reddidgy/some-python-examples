@@ -669,7 +669,7 @@ def say_hello(**payload):
     if command_message == False and message_from_bot == False:
         print('No command message')
 
-        '''bot_message_text = "I can't understand your language. Take it easy and type `help` dude.:wrike:"
+        '''bot_message_text = "I can't understand your language. Take it easy and type `help` dude."
         BotMessage(web_client, channel_id, bot_message_text)'''
 
 slack_token = os.environ["SLACK_API_TOKEN"]     # выдираем переменную SLACK_API_TOKEN из винды
