@@ -4,9 +4,13 @@ and if message is a command to do the program goes to gsheet via token and gets 
 After that it returns information to the slack channel
 
 > Employee: Aleksey Fedorov
+
 > Company: someCompany
+
 > Team: Backend
+
 > Office:409-411 Floor:4
+
 
 There are few features and also I tried to add some game in there :D
 
