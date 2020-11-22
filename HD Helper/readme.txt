@@ -1,8 +1,7 @@
-This is helper program to find employee in the office using slack channel.
-
-Some employee can join private channel and type "loc *start last name 1+ symbols*"
-
-after that program goes to google sheet using token, grabs information from particular ceils and will chat to slack channel next formatted information:
+This is simple helper program to find employee in the office using slack channel.
+The program triggers in some slack channel via slack message from user
+and if message is a command to do the program goes to gsheet via token and gets some information
+After that it returns information to the slack channel
 
 Employee: Aleksey Fedorov
 Company: someCompany
