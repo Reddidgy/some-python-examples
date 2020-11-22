@@ -1,0 +1,74 @@
+{'rtm_client': <slack.rtm.client.RTMClient object at 0x044E5770>
+ 'web_client': <slack.web.client.WebClient object at 0x04BE77B0>
+ 'data': {'client_msg_id': '1e27defe-a024-4719-b2f0-4e7c31ccf64a'
+ 'suppress_notification': False
+ 'text': 'loc закрой'
+ 'user': 'UL84R0TMX'
+ 'team': 'T0259C89T'
+ 'user_team': 'T0259C89T'
+ 'source_team': 'T0259C89T'
+ 'channel': 'DNUU6F1L3'
+ 'event_ts': '1573049722.000200'
+ 'ts': '1573049722.000200'}}
+===========================================
+{'rtm_client': <slack.rtm.client.RTMClient object at 0x044E5770>
+ 'web_client': <slack.web.client.WebClient object at 0x04C2F490>
+ 'data': {'client_msg_id': '946c5539-3e23-4b0f-b7ad-a83fbad7882d'
+ 'suppress_notification': False
+ 'text': 'ожи'
+ 'user': 'UL84R0TMX'
+ 'team': 'T0259C89T'
+ 'user_team': 'T0259C89T'
+ 'source_team': 'T0259C89T'
+ 'channel': 'DNUU6F1L3'
+ 'event_ts': '1573110092.000500'
+ 'ts': '1573110092.000500'}}
+===========================================
+{'rtm_client': <slack.rtm.client.RTMClient object at 0x044E5770>
+ 'web_client': <slack.web.client.WebClient object at 0x05513CD0>
+ 'data': {'user': 'UFC8XCJSV'
+ 'subtype': 'channel_leave'
+ 'text': '<@UFC8XCJSV> has left the channel'
+ 'team': 'T0259C89T'
+ 'channel': 'CNXHFGMEW'
+ 'event_ts': '1573153944.075400'
+ 'ts': '1573153944.075400'}}
+===========================================
+{'rtm_client': <slack.rtm.client.RTMClient object at 0x043B4530>
+ 'web_client': <slack.web.client.WebClient object at 0x04AB8E30>
+ 'data': {'client_msg_id': 'a4144a5e-98de-4600-9df7-1eebcb814365'
+ 'suppress_notification': False
+ 'text': 'loc Доброрад'
+ 'user': 'UL84R0TMX'
+ 'team': 'T0259C89T'
+ 'blocks': [{'type': 'rich_text'
+ 'block_id': 'AHbft'
+ 'elements': [{'type': 'rich_text_section'
+ 'elements': [{'type': 'text'
+ 'text': 'loc Доброрад'}]}]}]
+ 'user_team': 'T0259C89T'
+ 'source_team': 'T0259C89T'
+ 'channel': 'DNUU6F1L3'
+ 'event_ts': '1576759825.000300'
+ 'ts': '1576759825.000300'}}
+===========================================
+{'rtm_client': <slack.rtm.client.RTMClient object at 0x043B4530>
+ 'web_client': <slack.web.client.WebClient object at 0x04AB8C90>
+ 'data': {'client_msg_id': '0119b6a6-92cd-4862-9d41-da5f3356d167'
+ 'suppress_notification': False
+ 'text': 'game attack <@UM3U0T7PH>'
+ 'user': 'UL84R0TMX'
+ 'team': 'T0259C89T'
+ 'blocks': [{'type': 'rich_text'
+ 'block_id': 'JU9n6'
+ 'elements': [{'type': 'rich_text_section'
+ 'elements': [{'type': 'text'
+ 'text': 'game attack '}
+ {'type': 'user'
+ 'user_id': 'UM3U0T7PH'}]}]}]
+ 'user_team': 'T0259C89T'
+ 'source_team': 'T0259C89T'
+ 'channel': 'DNUU6F1L3'
+ 'event_ts': '1576759861.000800'
+ 'ts': '1576759861.000800'}}
+===========================================
