@@ -4,7 +4,7 @@
     'data': {
         'client_msg_id': 'db881dbb-453e-4864-81f1-ef28fece871b',
         'suppress_notification': False,
-        'text': 'хуйло',
+        'text': 'Test',
         'user': 'UL84R0TMX',
         'team': 'T0259C89T',
         'user_team': 'T0259C89T',
@@ -22,7 +22,7 @@
         'text': "I cann't understand your language. Take it easy and type 'help' dude.:wrike:",
         'suppress_notification': False,
         'username': 'HD Helper',
-        'bot_id': 'BP006SCAD', 
+        'bot_id': 'BP006SCAD',
         'team': 'T0259C89T',
         'user_team': 'T0259C89T',
         'source_team': 'T0259C89T',

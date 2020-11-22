@@ -665,7 +665,7 @@ def say_hello(**payload):
             BotMessage(web_client, channel_id, bot_message_text)
 
     #######################################################################
-    # если ничего не подошло - отправляем, что ничего не поняли и иди нахуй
+    # если ничего не подошло - отправляем, что ничего не поняли
     if command_message == False and message_from_bot == False:
         print('No command message')
 
