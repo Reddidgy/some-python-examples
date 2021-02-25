@@ -6,20 +6,6 @@ filename_opened = open(filename,mode='r')
 j = json.load(filename_opened)
 filename_opened.close()
 
-'''
-{
-    "resourceName": "RESOURCENAME",             1
-    "parameterList": [                          2
-      "PARAM1",
-      "PARAM2"
-    ],
-    "resourceGroup": "General",                 3
-    "enabledReport": "false"                      4
-}
-'''
-
-
-
 resourceNameDict = {}
 currentResourceNameID = 0
 parametersDict = {}
