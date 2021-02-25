@@ -3,6 +3,16 @@
 **Briefly about each simple program:**
 
 
+> > - [SimpleJsonParser from real case](https://github.com/Reddidgy/some-python-examples/tree/main/SimpleJsonParser)
+>
+>>It's from real case
+>I had task to format some json file from service API with some
+>resources for test. But every JSON-file was so big and some values 
+>was duplicated. 
+>
+>After that task I understood that I should demonstrate this without real resources or keys and I've created realNamesChanger for main input file :)
+
+>
 > - [EncryptDecryptTools](https://github.com/Reddidgy/some-python-examples/tree/main/EncryptDecryptTools)
 >
 > This funny but working program services for encrypting and decrypting text manually. 
