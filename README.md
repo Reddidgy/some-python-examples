@@ -2,6 +2,12 @@
 
 **Briefly about each simple program:**
 
+
+> - [EncryptDecryptTools](https://github.com/Reddidgy/some-python-examples/tree/main/EncryptDecryptTools)
+>
+> This funny but working program services for encrypting and decrypting text manually. 
+> For example it can be used for safe information transferring of plain text.
+
 > - [HD Helper](https://github.com/Reddidgy/some-python-examples/tree/main/HD%20Helper)
 >
 > This is simple helper program to find employee in the office using slack channel.
