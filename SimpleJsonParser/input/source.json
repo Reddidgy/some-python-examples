@@ -1,0 +1,1432 @@
+[
+  {
+    "resourceName": "RESOURSE_NAME_1",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5",
+      "PARAM6",
+      "PARAM7",
+      "PARAM8",
+      "PARAM9",
+      "PARAM10",
+      "PARAM11",
+      "PARAM12",
+      "PARAM13",
+      "PARAM14",
+      "PARAM15",
+      "PARAM16",
+      "PARAM17",
+      "PARAM18",
+      "PARAM19",
+      "PARAM20"
+    ],
+    "resourceGroup": "GROUP1",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_2",
+    "parameterList": [
+      "PARAM21",
+      "PARAM22",
+      "PARAM3",
+      "PARAM23",
+      "PARAM16",
+      "PARAM17",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP2",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_3",
+    "parameterList": [
+      "PARAM24",
+      "PARAM25",
+      "PARAM21",
+      "PARAM26",
+      "PARAM27",
+      "PARAM28",
+      "PARAM29",
+      "PARAM23",
+      "PARAM16",
+      "PARAM17"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_4",
+    "parameterList": [
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_5",
+    "parameterList": [
+      "PARAM30",
+      "PARAM16",
+      "PARAM29",
+      "PARAM17"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_6",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM24",
+      "PARAM25",
+      "PARAM31",
+      "PARAM32",
+      "PARAM33",
+      "PARAM21",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_7",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM3",
+      "PARAM7",
+      "PARAM6",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP5",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_8",
+    "parameterList": [
+      "PARAM3",
+      "PARAM34",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP6",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_9",
+    "parameterList": [
+      "PARAM31",
+      "PARAM32",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_10",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM35",
+      "PARAM21",
+      "PARAM36",
+      "PARAM3",
+      "PARAM16",
+      "PARAM17",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP2",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_11",
+    "parameterList": [
+      "PARAM37",
+      "PARAM38",
+      "PARAM39",
+      "PARAM40",
+      "PARAM10",
+      "PARAM11",
+      "PARAM41"
+    ],
+    "resourceGroup": "GROUP7",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_12",
+    "parameterList": [
+      "PARAM41",
+      "PARAM10",
+      "PARAM11",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP7",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_13",
+    "parameterList": [
+      "PARAM14",
+      "PARAM15",
+      "PARAM21",
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_14",
+    "parameterList": [
+      "PARAM42",
+      "PARAM43",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_15",
+    "parameterList": [
+      "PARAM3",
+      "PARAM1",
+      "PARAM2",
+      "PARAM4",
+      "PARAM5",
+      "PARAM41",
+      "PARAM10",
+      "PARAM11"
+    ],
+    "resourceGroup": "GROUP7",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_16",
+    "parameterList": [
+      "PARAM44",
+      "PARAM45",
+      "PARAM46",
+      "PARAM25",
+      "PARAM47",
+      "PARAM48",
+      "PARAM49",
+      "PARAM21",
+      "PARAM36",
+      "PARAM50",
+      "PARAM28",
+      "PARAM16",
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM29",
+      "PARAM17",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_17",
+    "parameterList": [
+      "PARAM42",
+      "PARAM43",
+      "PARAM50",
+      "PARAM28",
+      "PARAM16",
+      "PARAM51",
+      "PARAM29",
+      "PARAM17",
+      "PARAM4",
+      "PARAM5",
+      "PARAM52",
+      "PARAM53",
+      "PARAM21"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_18",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM4",
+      "PARAM5",
+      "PARAM41",
+      "PARAM10",
+      "PARAM11",
+      "PARAM3"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_19",
+    "parameterList": [
+      "PARAM54",
+      "PARAM41",
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_20",
+    "parameterList": [
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM55",
+      "PARAM14",
+      "PARAM56",
+      "PARAM15",
+      "PARAM1",
+      "PARAM2",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_21",
+    "parameterList": [
+      "PARAM41",
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_22",
+    "parameterList": [
+      "PARAM57",
+      "PARAM51",
+      "PARAM1",
+      "PARAM2",
+      "PARAM3",
+      "PARAM16",
+      "PARAM17",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP2",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_23",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM3",
+      "PARAM14",
+      "PARAM15",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_24",
+    "parameterList": [
+      "PARAM3",
+      "PARAM21",
+      "PARAM1",
+      "PARAM2",
+      "PARAM7",
+      "PARAM6",
+      "PARAM9",
+      "PARAM8",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP5",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_25",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM3",
+      "PARAM58",
+      "PARAM8",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP5",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_26",
+    "parameterList": [
+      "PARAM42",
+      "PARAM43",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_27",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM59",
+      "PARAM41",
+      "PARAM10",
+      "PARAM11",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP7",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_28",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM24",
+      "PARAM25",
+      "PARAM60",
+      "PARAM31",
+      "PARAM32",
+      "PARAM21",
+      "PARAM33",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_29",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM21",
+      "PARAM3",
+      "PARAM7",
+      "PARAM6",
+      "PARAM9",
+      "PARAM8",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP5",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_30",
+    "parameterList": [
+      "PARAM42",
+      "PARAM43",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_31",
+    "parameterList": [
+      "PARAM3",
+      "PARAM61",
+      "PARAM62",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP8",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_32",
+    "parameterList": [],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_33",
+    "parameterList": [
+      "PARAM55",
+      "PARAM14",
+      "PARAM56",
+      "PARAM15",
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM1",
+      "PARAM2",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_34",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM3",
+      "PARAM58",
+      "PARAM8",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP5",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_35",
+    "parameterList": [
+      "PARAM3",
+      "PARAM1",
+      "PARAM2",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP1",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_36",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP2",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_37",
+    "parameterList": [
+      "PARAM42",
+      "PARAM43",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_38",
+    "parameterList": [
+      "PARAM42",
+      "PARAM43",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_39",
+    "parameterList": [
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_40",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM60",
+      "PARAM21",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_41",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM63",
+      "PARAM19",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP9",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_42",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM3",
+      "PARAM16",
+      "PARAM17",
+      "PARAM14",
+      "PARAM15",
+      "PARAM41",
+      "PARAM10",
+      "PARAM11",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP7",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_43",
+    "parameterList": [
+      "PARAM7",
+      "PARAM6",
+      "PARAM32",
+      "PARAM31",
+      "PARAM3",
+      "PARAM1",
+      "PARAM2",
+      "PARAM64",
+      "PARAM65",
+      "PARAM66",
+      "PARAM67",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP5",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_44",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM18",
+      "PARAM10",
+      "PARAM11",
+      "PARAM16",
+      "PARAM17",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP1",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_45",
+    "parameterList": [
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_46",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM10",
+      "PARAM11",
+      "PARAM22",
+      "PARAM68",
+      "PARAM16",
+      "PARAM17",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP2",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_47",
+    "parameterList": [
+      "PARAM69",
+      "PARAM10",
+      "PARAM11",
+      "PARAM22",
+      "PARAM61",
+      "PARAM62",
+      "PARAM70",
+      "PARAM20",
+      "PARAM1",
+      "PARAM2",
+      "PARAM4",
+      "PARAM5",
+      "PARAM3"
+    ],
+    "resourceGroup": "GROUP8",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_48",
+    "parameterList": [
+      "PARAM42",
+      "PARAM43",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_49",
+    "parameterList": [
+      "PARAM71",
+      "PARAM8"
+    ],
+    "resourceGroup": "GROUP5",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_50",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM32",
+      "PARAM31",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_51",
+    "parameterList": [
+      "PARAM51",
+      "PARAM1",
+      "PARAM2",
+      "PARAM3",
+      "PARAM50",
+      "PARAM16",
+      "PARAM17",
+      "PARAM4",
+      "PARAM5",
+      "PARAM52",
+      "PARAM53",
+      "PARAM21"
+    ],
+    "resourceGroup": "GROUP2",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_52",
+    "parameterList": [
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_53",
+    "parameterList": [
+      "PARAM30",
+      "PARAM16",
+      "PARAM29",
+      "PARAM17"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_54",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM59",
+      "PARAM3",
+      "PARAM41",
+      "PARAM10",
+      "PARAM11",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP7",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_55",
+    "parameterList": [
+      "PARAM39",
+      "PARAM40",
+      "PARAM10",
+      "PARAM11",
+      "PARAM41",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_56",
+    "parameterList": [
+      "PARAM42",
+      "PARAM43",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP4",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_57",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_58",
+    "parameterList": [
+      "PARAM31",
+      "PARAM32"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_59",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM33",
+      "PARAM32",
+      "PARAM31",
+      "PARAM16",
+      "PARAM17",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP2",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_60",
+    "parameterList": [
+      "PARAM28",
+      "PARAM16",
+      "PARAM29",
+      "PARAM17",
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM1",
+      "PARAM2",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_61",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM21",
+      "PARAM3",
+      "PARAM7",
+      "PARAM6",
+      "PARAM9",
+      "PARAM8",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP5",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_62",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM21",
+      "PARAM3",
+      "PARAM14",
+      "PARAM15",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP3",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_63",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM72",
+      "PARAM73",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_64",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM59",
+      "PARAM41",
+      "PARAM10",
+      "PARAM11",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_65",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM72",
+      "PARAM73",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_66",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM59",
+      "PARAM41",
+      "PARAM10",
+      "PARAM11",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_67",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM60",
+      "PARAM21",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_68",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_69",
+    "parameterList": [
+      "PARAM74",
+      "PARAM32",
+      "PARAM31",
+      "PARAM10",
+      "PARAM11",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_70",
+    "parameterList": [
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_71",
+    "parameterList": [
+      "PARAM17",
+      "PARAM16",
+      "PARAM1",
+      "PARAM2",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_72",
+    "parameterList": [
+      "PARAM44",
+      "PARAM45",
+      "PARAM46",
+      "PARAM25",
+      "PARAM47",
+      "PARAM48",
+      "PARAM49",
+      "PARAM21",
+      "PARAM36",
+      "PARAM75",
+      "PARAM28",
+      "PARAM16",
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM29",
+      "PARAM17",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_73",
+    "parameterList": [
+      "PARAM76",
+      "PARAM19",
+      "PARAM77",
+      "PARAM78",
+      "PARAM14",
+      "PARAM15",
+      "PARAM2",
+      "PARAM1",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_74",
+    "parameterList": [
+      "PARAM43",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_75",
+    "parameterList": [
+      "PARAM10",
+      "PARAM11",
+      "PARAM4",
+      "PARAM5",
+      "PARAM3"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_76",
+    "parameterList": [
+      "PARAM14",
+      "PARAM15",
+      "PARAM16",
+      "PARAM17",
+      "PARAM1",
+      "PARAM2",
+      "PARAM4",
+      "PARAM5",
+      "PARAM3"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_77",
+    "parameterList": [
+      "PARAM41",
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_78",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM24",
+      "PARAM25",
+      "PARAM32",
+      "PARAM31",
+      "PARAM79",
+      "PARAM33",
+      "PARAM21",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_79",
+    "parameterList": [
+      "PARAM14",
+      "PARAM15",
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_80",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM31",
+      "PARAM32",
+      "PARAM21",
+      "PARAM14",
+      "PARAM80",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_81",
+    "parameterList": [
+      "PARAM31",
+      "PARAM32",
+      "PARAM16",
+      "PARAM17",
+      "PARAM43",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_82",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_83",
+    "parameterList": [
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_84",
+    "parameterList": [
+      "PARAM39",
+      "PARAM10",
+      "PARAM40",
+      "PARAM11",
+      "PARAM55",
+      "PARAM14",
+      "PARAM56",
+      "PARAM15",
+      "PARAM31",
+      "PARAM32",
+      "PARAM1",
+      "PARAM2",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_85",
+    "parameterList": [
+      "PARAM3",
+      "PARAM81",
+      "PARAM16",
+      "PARAM17",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_86",
+    "parameterList": [
+      "PARAM31",
+      "PARAM32",
+      "PARAM16",
+      "PARAM17",
+      "PARAM43",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_87",
+    "parameterList": [
+      "PARAM1",
+      "PARAM2",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_88",
+    "parameterList": [
+      "PARAM81",
+      "PARAM3",
+      "PARAM16",
+      "PARAM17",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_89",
+    "parameterList": [
+      "PARAM31",
+      "PARAM32",
+      "PARAM1",
+      "PARAM2",
+      "PARAM14",
+      "PARAM15",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_90",
+    "parameterList": [
+      "PARAM82",
+      "PARAM2",
+      "PARAM10",
+      "PARAM11",
+      "PARAM1",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_91",
+    "parameterList": [
+      "PARAM83",
+      "PARAM84",
+      "PARAM85",
+      "PARAM86",
+      "PARAM1",
+      "PARAM2",
+      "PARAM55",
+      "PARAM14",
+      "PARAM56",
+      "PARAM15",
+      "PARAM4",
+      "PARAM5",
+      "PARAM87",
+      "PARAM21"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_92",
+    "parameterList": [
+      "PARAM77",
+      "PARAM78",
+      "PARAM14",
+      "PARAM15",
+      "PARAM2",
+      "PARAM1",
+      "PARAM3",
+      "PARAM4",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_93",
+    "parameterList": [
+      "PARAM16",
+      "PARAM17",
+      "PARAM1",
+      "PARAM2",
+      "PARAM4",
+      "PARAM5",
+      "PARAM3"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "false"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_94",
+    "parameterList": [
+      "PARAM31",
+      "PARAM32",
+      "PARAM43",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  },
+  {
+    "resourceName": "RESOURSE_NAME_95",
+    "parameterList": [
+      "PARAM31",
+      "PARAM32",
+      "PARAM43",
+      "PARAM5"
+    ],
+    "resourceGroup": "GROUP10",
+    "enabledResource": "true"
+  }
+]
